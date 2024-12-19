@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Full Stack Java Developer
 
-<img aligh="center" src="https://i.pinimg.com/736x/7f/be/fe/7fbefe7c1b9b28386deb33c9da88f0ed.jpg">
+<img aligh="center" width=50px src="https://i.pinimg.com/736x/7f/be/fe/7fbefe7c1b9b28386deb33c9da88f0ed.jpg">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ManasaDharma  ) 
